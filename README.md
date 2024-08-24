@@ -20,7 +20,7 @@
 
 "Passionate about technology and enjoying a career transition into Data Science" <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I’m currently working at Volkswagen in the test department, where I’ve honed my analytical skills, but I am actively seeking a career change into Data Science.
+🔭 I’m currently working at Volkswagen in the test department, where I’ve honed my analytical skills, but I am actively seeking a career change into Data Science.
 
 🌱 I’m building a solid foundation in Python, SQL, and data science tools, and I’m excited to expand my expertise into cloud platforms like Azure. My goal is to combine my industry experience with advanced data analytics to drive impactful business decisions.
 
