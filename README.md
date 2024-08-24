@@ -20,12 +20,19 @@
 
 "Passionate about technology and enjoying a career transition into Data Science" <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m currently working on Volkswagen in a test department, but I am looking for a career change in Data Science
-- 🌱 I’m currently learning and practicing Python, SQL and data science tools, but also looking for learning new technologies like Azure.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently working at Volkswagen in the test department, where I’ve honed my analytical skills, but I am actively seeking a career change into Data Science.
+
+🌱 I’m building a solid foundation in Python, SQL, and data science tools, and I’m excited to expand my expertise into cloud platforms like Azure. My goal is to combine my industry experience with advanced data analytics to drive impactful business decisions.
+
+👯 I’m eager to collaborate on projects that involve machine learning, data visualization, or any innovative applications of data science. I’m particularly interested in projects that have a real-world impact.
+
+🤔 I’m seeking mentorship in cloud computing and best practices in data engineering to strengthen my data science toolkit.
+
+💬 Ask me about transitioning from a different industry into Data Science—I’m passionate about sharing my journey and tips for success.
+
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/diego-de-la-fuente-prats/) or diegodelafl8@gmail.com. I’m always open to discussing new opportunities or collaborations.
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: My passion for technology began in the automotive industry, where I learned the value of precision and data-driven decision making, which now fuels my transition to Data Science.
+
