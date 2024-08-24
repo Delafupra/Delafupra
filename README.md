@@ -8,10 +8,11 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Delafupra&color=brightgreen)
 
-<div align="center">
-  <h2>Welcome to My GitHub Profile! 👋</h2>
-  <p>Hello, I'm Diego De la Fuente, a passionate Data Scientist. Thank you for taking the time to visit my profile. I hope you find something that interests you here!</p>
-</div>
+<h1>
+  Hello, I'm Diego, a passionate Data Scientist. Thank you for taking the time to visit my profile. I hope you find something that interests you here!
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 - 🔭 I’m currently working on Volkswagen in a test department, but I am looking for a career change in Data Science
 - 🌱 I’m currently learning and practicing Python, SQL and data science tools, but also looking for learning new technologies like Azure.
 - 👯 I’m looking to collaborate on ...
