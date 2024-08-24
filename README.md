@@ -1,7 +1,7 @@
 ## Hi there, my name is Diego De la Fuente 👋
 
 <div id="header" align="center">
-  <img decoding="async" src="" width="800"/>
+  <img decoding="async" src="https://www.canva.com/design/DAGOtyCGDEo/CGkOktiMZwyIPTP4PaErxw/edit" width="800"/>
 </div>
 - 🔭 I’m currently working on Volkswagen in a test department, but I am looking for a career change in Data Science
 - 🌱 I’m currently learning and practicing Python, SQL and data science tools, but also looking for learning new technologies like Azure.
