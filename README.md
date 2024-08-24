@@ -17,6 +17,9 @@
  <div id="header" align="left">
 
 ### :man_technologist: About me :
+
+"Passionate about technology and enjoying a career transition into Data Science" <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 - 🔭 I’m currently working on Volkswagen in a test department, but I am looking for a career change in Data Science
 - 🌱 I’m currently learning and practicing Python, SQL and data science tools, but also looking for learning new technologies like Azure.
 - 👯 I’m looking to collaborate on ...
