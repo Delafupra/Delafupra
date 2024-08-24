@@ -52,3 +52,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
+### :bar_chart: My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Delafupra&show_icons=true&theme=radical" alt="Diego's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delafupra&layout=compact&theme=radical" alt="Top Languages" />
+</div>
