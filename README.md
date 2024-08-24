@@ -1,4 +1,3 @@
-## Hi there, my name is Diego De la Fuente 👋
 
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/Delafupra/Banner_Diego/blob/main/Banner.png"/>
