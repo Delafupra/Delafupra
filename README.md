@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-de-la-fuente-prats/)
 
 <div id="badges" align="center">
-  <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Delafupra.Delafupra&color=00cf00" alt=""/>
+  <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Delafupra/Delafupra&color=00cf00" alt=""/>
 </div>
   
 - 🔭 I’m currently working on Volkswagen in a test department, but I am looking for a career change in Data Science
