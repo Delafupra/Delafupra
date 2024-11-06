@@ -3,7 +3,7 @@
   <img decoding="async" src="https://github.com/Delafupra/Banner_Diego/blob/main/Banner.png"/>
 </div>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-de-la-fuente-prats/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegodelafuente-datascience/)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Delafupra&color=brightgreen)
 
