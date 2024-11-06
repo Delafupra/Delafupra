@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img decoding="async" src="[https://github.com/Delafupra/Banner_Diego/blob/main/Banner.png](https://github.com/Delafupra/Banner_Diego/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)"/>
+  <img decoding="async" src="https://github.com/Delafupra/Banner_Diego/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png"/>
 </div>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegodelafuente-datascience/)
